@@ -126,18 +126,5 @@ python3 cli.py
 * Send transactions to my address: `octBvPDeFCaAZtfr3SBr7Jn6nnWnUuCfAZfgCmaqswV8YR5`
 * Use [Octra Explorer](https://octrascan.io/) to find more octra addresses
 
-
-**5. Use Alternative Script**
-* If you have issue with official script, I just refined the script with optimizated UI, you can replace the current one with mine by executing this command:
-```bash
-curl -o cli.py https://raw.githubusercontent.com/0xmoei/octra/refs/heads/main/cli.py
-```
-
-**6. Share Feedback**
-
-Always share your feedback about the week's task in discord
-
----
-
 ## Wait for next steps
 Stay tuned.
